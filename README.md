@@ -17,5 +17,3 @@
 ## Contato
 - 📧 Email: ryanburhoff@outlook.com
 - 🔗 LinkedIn: (https://br.linkedin.com/in/raianb)
--
-
