@@ -3,8 +3,8 @@
 ## Sobre mim
 - 🎓 Formado em Desenvolvimento de Sistemas.
 - 💼 Atualmente trabalhando como Freelancer.
-- 🌱 Aprendendo Vue.https://github.com/raianb
-- 🚀 Interesses: [Áreas de interesse, como desenvolvimento web, ciência de dados, etc.].
+- 🌱 Aprendendo Vue e Javascript
+- 🚀 Interesses: desenvolvimento web e edição de videos
 
 ## Habilidades
 - 💻 Linguagens: Javascript e Vue.
