@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou Ryan! 👋
 
-<!--
-**raianb/raianb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+- 🎓 Formado em Desenvolvimento de Sistemas.
+- 💼 Atualmente trabalhando como Freelancer.
+- 🌱 Aprendendo Vue.https://github.com/raianb
+- 🚀 Interesses: [Áreas de interesse, como desenvolvimento web, ciência de dados, etc.].
 
-Here are some ideas to get you started:
+## Habilidades
+- 💻 Linguagens: Javascript e Vue.
+- 🛠️ Ferramentas: Vs code e Git.
+- 📊 Outras: Adobe Premiere e Adobe Photoshop.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos Destacados
+- Portfolio(https://github.com/raianb/portfolio-do-raian)
+
+## Contato
+- 📧 Email: ryanburhoff@outlook.com
+- 🔗 LinkedIn: (https://br.linkedin.com/in/raianb)
+-
+
+## Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
